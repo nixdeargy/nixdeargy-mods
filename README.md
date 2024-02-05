@@ -14,6 +14,8 @@
 > balanced way to tp arround.
 - Xaero's Minimap
 > fully customizable minimap mod.
+- Pipez
+> Item transportation mod.
 ## *Vanilla Mods*
 - Camera
 > adds a camera that can import your images to frames or albums.
