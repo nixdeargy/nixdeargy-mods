@@ -15,7 +15,11 @@
 - Xaero's Minimap
 > fully customizable minimap mod.
 - Pipez
-> Item transportation mod.
+> item transportation mod.
+- MrCrayfish Furniture Mod
+> furniture mod.
+- Nosiphus Furniture Mod
+> addon for mrcrayfish
 ## *Vanilla Mods*
 - Camera
 > adds a camera that can import your images to frames or albums.
